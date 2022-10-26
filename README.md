@@ -1,1 +1,7 @@
-# FreenFley.github.io 
+boolean willingToKnowMore = true;
+if ( willingToKnowMore ){
+
+this.enter();
+
+
+}
